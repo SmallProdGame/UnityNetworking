@@ -1,0 +1,21 @@
+{
+  "name": "com.smallprodgame.networking",
+  "version": "1.0.0",
+  "displayName": "SmallProdGame Networking",
+  "description": "Some networking solution to use with DOTS.",
+  "unity": "2019.3",
+  "keywords": [
+    "library",
+    "utility",
+    "networking"
+  ],
+  "author": {
+    "name": "SmallProdGame Team",
+    "email": "support@smallprodgame.com",
+    "url": "https://smallprodgame.com"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.unity.entities": "0.8.0-preview.8"
+  }
+}
